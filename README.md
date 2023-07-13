@@ -7,7 +7,7 @@ I have a strong passion for technology and a particular interest in web developm
 Throughout my studies, I've gained knowledge in programming, databases, networking, and cybersecurity. <br>
 I enjoy exploring emerging technologies like AI and machine learning. <br>
 I'm excited to connect with fellow IT professionals and learn from the community.</p>
-<p align="right"><img width="100px" height="100px" src="https://static.vecteezy.com/system/resources/previews/003/815/991/original/female-programmer-doing-software-coding-free-vector.jpg"></p>
+<p align="right"><img width="250px" height="250px" src="https://static.vecteezy.com/system/resources/previews/003/815/991/original/female-programmer-doing-software-coding-free-vector.jpg"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
