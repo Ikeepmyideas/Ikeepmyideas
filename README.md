@@ -1,4 +1,4 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960)
+![MasterHead](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fcb0152b3-b922-4a2b-81f5-a9c90ba0a1ec_1000x563.jpeg)
 <h1 align="center">Hello everyone👋,</h1>
 
 <p align="left">
