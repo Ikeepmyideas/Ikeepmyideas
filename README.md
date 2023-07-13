@@ -1,7 +1,7 @@
 ![MasterHead](https://cdna.artstation.com/p/assets/images/images/036/822/576/original/karina-formanova-cover-final.gif?1618727960)
 <h1 align="center">Hello everyone👋,</h1>
 
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
+<p align="left"><img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif"></p>
 
 I'm an IT student from France specializing in web development. 
 I have a strong passion for technology and a particular interest in web development. 
