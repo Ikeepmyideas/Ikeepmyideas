@@ -7,7 +7,7 @@ I have a strong passion for technology and a particular interest in web developm
 Throughout my studies, I've gained knowledge in programming, databases, networking, and cybersecurity. <br>
 I enjoy exploring emerging technologies like AI and machine learning. <br>
 I'm excited to connect with fellow IT professionals and learn from the community.</p>
-<p align="right"><img width="250px" height="250px" src="https://media.tenor.com/bU_xhHb0YUMAAAAM/anime-retro-anime.gif"></p>
+<p align="right"><img width="250px" height="150px" src="https://media.tenor.com/bU_xhHb0YUMAAAAM/anime-retro-anime.gif"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
